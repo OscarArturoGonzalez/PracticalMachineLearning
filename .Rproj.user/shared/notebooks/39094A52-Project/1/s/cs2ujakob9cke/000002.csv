@@ -1,0 +1,8 @@
+"0","quiz.df         <-read.csv(quizFilename , na.strings=c(""NA"", """", ""#DIV/0!""))"
+"0","quiz.df         <-quiz.df[,colSums(is.na(quiz.df)) == 0]"
+"0","dim(quiz.df) #;head(quiz.df,3)"
+"1","[1]"
+"1"," 20"
+"1"," 60"
+"1","
+"

@@ -1,0 +1,8 @@
+"0","Training.df   <-training.df[,-c(1:7)]"
+"0","Quiz.df <-quiz.df[,-c(1:7)]"
+"0","dim(Training.df)"
+"1","[1]"
+"1"," 19622"
+"1","    53"
+"1","
+"

@@ -1,0 +1,25 @@
+"0","library(caret)"
+"2","Loading required package: lattice
+"
+"2","Loading required package: ggplot2
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"0","library(randomForest)"
+"2","randomForest 4.6-14
+"
+"2","Type rfNews() to see new features/changes/bug fixes.
+"
+"2","
+Attaching package: ‘randomForest’
+
+"
+"2","The following object is masked from ‘package:ggplot2’:
+
+    margin
+
+"
+"0","library(e1071)"
+"0","set.seed(1603)"

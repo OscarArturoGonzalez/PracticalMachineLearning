@@ -1,0 +1,4 @@
+"0","trainingFilename   <- 'pml-training.csv'"
+"0","quizFilename       <- 'pml-testing.csv'"
+"0","trainingUrl        <- 'https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv'"
+"0","quizUrl            <- 'https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv'"

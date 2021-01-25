@@ -1,0 +1,8 @@
+"0","training.df     <-read.csv(trainingFilename, na.strings=c(""NA"","""",""#DIV/0!""))"
+"0","training.df     <-training.df[,colSums(is.na(training.df)) == 0]"
+"0","dim(training.df)"
+"1","[1]"
+"1"," 19622"
+"1","    60"
+"1","
+"
